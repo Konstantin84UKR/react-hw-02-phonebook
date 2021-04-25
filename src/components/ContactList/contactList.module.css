@@ -15,7 +15,8 @@ li {
   list-style: none;
   margin: 2px;
   padding: 2px;
-  width: fit-content;
+  width: 280px;
+
 }
 button {
   position: relative;
